@@ -1,0 +1,97 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body,
+p,
+li,
+span {
+  font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+  font-style: normal;
+  font-size: 1rem;
+  line-height: 1.375rem;
+  color: #8b5a5a;
+  padding-right: 1.1rem;
+  padding-left: 1.1rem;
+  text-decoration: none;
+  padding-bottom: 0;
+  text-transform: capitalize;
+}
+.first_img {
+  background-image: url("images/a.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h3 {
+  font-size: 1.75rem;
+  line-height: 2rem;
+  color: rgba(255, 255, 255, 1);
+  font-family: "TCCC-UnityHeadline-Regular", "TCCC-UnityHeadline", sans-serif;
+  font-style: normal;
+
+  line-height: 1.6875rem;
+  letter-spacing: 0.12rem;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+h6 {
+  line-height: 2rem;
+  color: rgba(255, 255, 255, 1);
+  font-family: "TCCC-UnityHeadline-Regular", "TCCC-UnityHeadline", sans-serif;
+  font-style: normal;
+  font-size: 1.375rem;
+  line-height: 1.6875rem;
+  letter-spacing: 0.12rem;
+  text-transform: capitalize;
+  font-weight: 400;
+}
+.top_pos {
+  background-color: #ffffcc;
+  font-weight: 400;
+  background-size: cover;
+}
+.poster {
+  width: auto;
+  margin-left: -18px;
+  margin-right: -18px;
+}
+.second_img {
+  background-image: url("images/b.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.third_img {
+  background-image: url("images/c.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fourth_img {
+  background-image: url("images/d.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fifth_img {
+  background-image: url("images/e.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sixth_img {
+  background-image: url("images/f.webp");
+  background-repeat: no-repeat;
+}
+.seventh_img {
+  background-image: url("images/g.webp");
+  background-repeat: no-repeat;
+}
+.community {
+  margin-top: 14%;
+  margin-bottom: 4%;
+}
+.drink {
+  margin-top: 40%;
+}
+.explore {
+  margin-bottom: 20%;
+}
