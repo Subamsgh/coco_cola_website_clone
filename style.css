@@ -95,3 +95,69 @@ h6 {
 .explore {
   margin-bottom: 20%;
 }
+.footer_part_1 {
+  margin-top: 5%;
+}
+.footer_part_2 ul li {
+  margin-top: 8%;
+  color: #f2f2f2;
+  border: none;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 1.438rem;
+  font-weight: 400;
+}
+.foot p {
+  margin-top: 2%;
+  color: #f2f2f2;
+  border: none;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 1.438rem;
+  letter-spacing: 0.5px;
+}
+
+.foot ul li {
+  color: #f2f2f2;
+  font-size: 13px;
+  text-decoration: underline;
+  letter-spacing: 0.5px;
+  line-height: 1.438rem;
+  padding: 0px 12px;
+  font-weight: 400;
+}
+.fa-brands {
+  font-size: 2rem;
+  color: #f2f2f2;
+  margin-top: 35px;
+}
+.foot,
+.coloe {
+  background-color: #4a4a4a;
+}
+.card-addText::before {
+  -webkit-transform: scale(1.8);
+  transform: scale(1.8);
+  left: 50%;
+  content: "";
+  background-image: url("images/home-scroll-down--white.svg");
+  background-size: contain;
+  display: inline-block;
+  height: 36px;
+  padding: 0;
+  position: absolute;
+  vertical-align: text-bottom;
+  width: 9px;
+  z-index: 2;
+  bottom: 2rem;
+  background-repeat: no-repeat;
+}
+.card-addText {
+  position: absolute;
+  bottom: 0;
+  width: auto;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  color: rgb(255, 255, 255);
+}
